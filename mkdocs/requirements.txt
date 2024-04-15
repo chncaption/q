@@ -10,7 +10,7 @@ Pygments==2.5.2
 certifi==2019.11.28
 chardet==3.0.4
 htmlmin==0.1.12
-idna==2.8
+idna==3.7
 jsmin==2.2.2
 livereload==2.6.1
 mkdocs-bootstrap4==0.1.2
